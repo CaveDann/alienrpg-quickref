@@ -1,8 +1,8 @@
 data_panicrolls = [
     {
-        title: "1 - 6",
+        title: "Keeping it Together",
         icon: "run",
-        subtitle: "Keeping it Together",
+        subtitle: "1 - 6",
         description: "Result: 1-6. Keeping it Together.",
         reference: "Core Rulebook, pg. 105.",
         bullets: [
@@ -10,9 +10,9 @@ data_panicrolls = [
         ]
     },
     {
-        title: "7",
+        title: "Nervous Twitch",
         icon: "crags",
-        subtitle: "Nervous Twitch",
+        subtitle: "7",
         description: "Result: 7. Nervous Twitch.",
         reference: "Core Rulebook, pg. 105.",
         bullets: [
@@ -21,9 +21,9 @@ data_panicrolls = [
         ]
     },
     {
-        title: "8",
+        title: "Tremble",
         icon: "at-sea",
-        subtitle: "Tremble",
+        subtitle: "8",
         description: "Result: 8. Tremble.",
         reference: "Core Rulebook, pg. 105.",
         bullets: [
@@ -31,9 +31,9 @@ data_panicrolls = [
         ]
     },
     {
-        title: "9",
+        title: "Drop Item",
         icon: "falling",
-        subtitle: "Drop Item",
+        subtitle: "9",
         description: "Result: 9. Drop Item.",
         reference: "Core Rulebook, pg. 105.",
         bullets: [
@@ -42,9 +42,9 @@ data_panicrolls = [
 	]
     },
     {
-        title: "10",
+        title: "Freeze",
         icon: "crawl",
-        subtitle: "Freeze",
+        subtitle: "10",
         description: "Result: 10. Freeze.",
         reference: "Core Rulebook, pg. 105.",
         bullets: [
@@ -54,9 +54,9 @@ data_panicrolls = [
         ]
     },
     {
-        title: "11",
+        title: "Seek Cover",
         icon: "strong",
-        subtitle: "Seek Cover",
+        subtitle: "11",
         description: "Result: 11. Seek Cover.",
         reference: "Core Rulebook, pg. 105.",
         bullets: [
@@ -67,9 +67,9 @@ data_panicrolls = [
 	]
     },
     {
-        title: "12",
+        title: "Scream",
         icon: "wingfoot",
-        subtitle: "Scream",
+        subtitle: "12",
         description: "Result: 12. Scream.",
         
         reference: "Core Rulebook, pg. 105.",
@@ -80,9 +80,9 @@ data_panicrolls = [
 	]
     },
     {
-        title: "13",
+        title: "Flee",
         icon: "wingfoot",
-        subtitle: "Flee",
+        subtitle: "13",
         description: "Result: 13. Flee.",
         reference: "Core Rulebook, pg. 105.",
         bullets: [
@@ -93,9 +93,9 @@ data_panicrolls = [
 	]
     },
     {
-        title: "14",
+        title: "Berserk",
         icon: "juggler",
-        subtitle: "Berserk",
+        subtitle: "14",
 	reference: "Core Rulebook, pg. 105.",
         description: "Result: 14. Berserk.",
         bullets: [
@@ -104,9 +104,9 @@ data_panicrolls = [
 	]
     },
     {
-        title: "15+",
+        title: "Catatonic",
         icon: "stone-pile",
-        subtitle: "Catatonic",
+        subtitle: "15+",
         reference: "Core Rulebook, pg. 105.",
         description: "Result: 15. Catatonic.",
         bullets: [
