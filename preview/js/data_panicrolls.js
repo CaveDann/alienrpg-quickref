@@ -1,4 +1,4 @@
-data_movement = [
+data_panicrolls = [
     {
         title: "1 - 6",
         icon: "run",
