@@ -96,7 +96,7 @@ data_panicrolls = [
         title: "14",
         icon: "juggler",
         subtitle: "Berserk",
-	reference: "Core Rulebook, pg. 105."
+	reference: "Core Rulebook, pg. 105.",
         description: "Result: 14. Berserk.",
         bullets: [
             "You must immediately attack the nearest person or creature, friendly or not. You won't stop until your target is broken.",
